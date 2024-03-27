@@ -1,0 +1,2 @@
+- 👋 oi meu nome é gabriel
+- 👀 estou interesado em programação e desenvolver jogos
